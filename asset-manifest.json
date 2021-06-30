@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-admin-panel/static/js/main.6febaaa2.chunk.js",
+    "main.js.map": "/react-admin-panel/static/js/main.6febaaa2.chunk.js.map",
+    "runtime-main.js": "/react-admin-panel/static/js/runtime-main.df35267c.js",
+    "runtime-main.js.map": "/react-admin-panel/static/js/runtime-main.df35267c.js.map",
+    "static/js/2.0fce138b.chunk.js": "/react-admin-panel/static/js/2.0fce138b.chunk.js",
+    "static/js/2.0fce138b.chunk.js.map": "/react-admin-panel/static/js/2.0fce138b.chunk.js.map",
+    "index.html": "/react-admin-panel/index.html",
+    "static/js/2.0fce138b.chunk.js.LICENSE.txt": "/react-admin-panel/static/js/2.0fce138b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df35267c.js",
+    "static/js/2.0fce138b.chunk.js",
+    "static/js/main.6febaaa2.chunk.js"
+  ]
+}
